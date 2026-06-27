@@ -22,6 +22,7 @@ It gives your team a single place to monitor stock levels, track material consum
 - [Receiving Stock](#receiving-stock)
 - [Adjusting Stock](#adjusting-stock)
 - [How Stock Figures Are Calculated](#how-stock-figures-are-calculated)
+- [Screenshots](#screenshots)
 
 ---
 
@@ -94,6 +95,11 @@ StoreStock derives usage figures from your completed jobs in ServiceM8.
 
 If a stock level looks unexpected, check that the relevant jobs are marked as completed in ServiceM8 and that Inventory Tracking is enabled on the material.
 
+---
+
+## Screenshots
+![Login](assets/images/screenshots/auth_page.png)
+![Dashboard](assets/images/screenshots/dash.png)
 ---
 
 <div align="center">
