@@ -98,6 +98,7 @@ If a stock level looks unexpected, check that the relevant jobs are marked as co
 ---
 
 ## Screenshots
+![Home](assets/images/screenshots/home.png)
 ![Login](assets/images/screenshots/auth_page.png)
 ![Dashboard](assets/images/screenshots/dash.png)
 ---
